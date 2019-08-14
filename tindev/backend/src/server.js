@@ -14,5 +14,5 @@ server.use(express.json());
 server.use(routes);
 
 server.listen(3333, () => {
-    console.log('Servidor Rodoando');
+    console.log('Servidor Rodando');
 });
